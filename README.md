@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raman Soni</h1>
 <h3 align="center">A passionate game developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ram22an&label=Profile%20views&color=0a69a4&style=plastic" alt="ram22an" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram22an" alt="ram22an" /></a> </p>
 
 - 🔭 I’m currently working on **Indie Game Projects**
@@ -33,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram22an&show_icons=true&theme=dark&locale=en" alt="ram22an" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram22an&theme=dark" alt="ram22an" /></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e099c1d-7139-4c24-9f92-87fb8e379819" alt="Profile Image" width="500"/>
+</p>
