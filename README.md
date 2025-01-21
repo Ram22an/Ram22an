@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **soniraman2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1m93IjDW1s6JJeQMbsXGDsI3_ovSCMgP1?usp=drive_link](https://drive.google.com/drive/folders/1m93IjDW1s6JJeQMbsXGDsI3_ovSCMgP1?usp=drive_link)
+- 📄 Know about my [experiences](https://portfolio-brown-seven-41.vercel.app/)
 
 - ⚡ Fun fact **I dream of traveling to Switzerland for its breathtaking landscapes and to Japan for its culture of discipline and respect.**
 
